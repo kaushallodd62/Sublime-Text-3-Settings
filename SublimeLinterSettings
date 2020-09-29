@@ -1,0 +1,6 @@
+// SublimeLinter Settings - User
+{
+	"delay": 0.1,
+	"highlights.demote_while_editing": "all",
+	"highlights.time_to_idle": 3.0,
+}
